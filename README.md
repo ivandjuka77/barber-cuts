@@ -1,33 +1,30 @@
+
+
 # Barber Cuts Website
 Barber Cuts is an elite barber shop chain that has a heavy focus on customer service and satisfaction.
 
 **Link to project:** https://barbercuts.netlify.app/
 
-![image](https://user-images.githubusercontent.com/81642757/200061425-8b44279d-2651-4a2e-b319-c21afb7aa73a.png)
+![image](https://user-images.githubusercontent.com/81642757/200061682-b8266f84-8dd5-4152-a504-cfb841751697.png)
 
-## How It's Made:
-
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
-
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+## Tech used: HTML, CSS, Sass, JavaScript
 
 ## Optimizations
-*(optional)*
 
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+- The bottom form will be replaced by a working calendar which will make the user stay on the site longer.
+
+- The buttons currently do not have functionality for making orders and joining the team.
+
+- Color pallete optimization.
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
-
-## Examples:
-Take a look at these couple examples that I have in my own portfolio:
-
-**Palettable:** https://github.com/alecortega/palettable
-
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
-
-**Patch Panel:** https://github.com/alecortega/patch-panel
+- Learned about main design concepts, user experience and user interface. 
+- Learned about CSS and Sass class manipulation tricks
+- Learned a number of useful tools in CSS and HTML
 
 
+
+
+## Thank you for checking out my project! Feel free to look at the rest of my Github :)
 
