@@ -3,7 +3,7 @@ Barber Cuts is an elite barber shop chain that has a heavy focus on customer ser
 
 **Link to project:** https://barbercuts.netlify.app/
 
-![image](https://user-images.githubusercontent.com/81642757/200061361-266a33e2-952d-4f77-b469-30256e4fbc75.png)
+![image](https://user-images.githubusercontent.com/81642757/200061425-8b44279d-2651-4a2e-b319-c21afb7aa73a.png)
 
 ## How It's Made:
 
